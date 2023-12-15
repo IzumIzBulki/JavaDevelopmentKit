@@ -1,4 +1,4 @@
-package seminar3.hw;
+package JDK_HomeWork#3.src;
 
 public class Calculator {
 
