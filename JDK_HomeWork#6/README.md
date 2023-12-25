@@ -7,6 +7,7 @@
 
 [pom.xml](https://github.com/IzumIzBulki/JavaDevelopmentKit/blob/main/JDK_HomeWork%236/pom.xml): Файл конфигурации Maven для управления зависимостями и сборкой проекта. Параметры симуляции
 
--- TOTAL_TRIALS: Количество игр, которые будут сыграны в ходе симуляции. Вы можете изменить это значение в файле [MontyHallGame.java](https://github.com/IzumIzBulki/JavaDevelopmentKit/blob/main/JDK_HomeWork%236/src/main/java/com/example/MontyHallGame.java) по необходимости.
+TOTAL_TRIALS: Количество игр, которые будут сыграны в ходе симуляции. Вы можете изменить это значение в файле [MontyHallGame.java](https://github.com/IzumIzBulki/JavaDevelopmentKit/blob/main/JDK_HomeWork%236/src/main/java/com/example/MontyHallGame.java) по необходимости.
 
 Результат в консоли
+![image](https://github.com/IzumIzBulki/JavaDevelopmentKit/assets/118291913/43111368-1433-4f00-8aed-ab5a56338a19)
