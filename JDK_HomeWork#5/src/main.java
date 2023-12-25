@@ -4,15 +4,6 @@ import java.util.Objects;
 import java.util.Random;
 import java.util.concurrent.CountDownLatch;
 
-/**
- * Есть пять философов (потоки), которые могут либо обедать, либо размышлять. +
- * Каждый философ должен пообедать три раза. +
- * Каждый прием пищи длиться 500 миллисекунд +
- * После каждого приема пищи философ должен размышлять +
- * Не должно возникнуть общей блокировки +
- * Философы не должны есть больше одного раза подряд +
- * Одновременно не кушают???
- */
 public class Var3 {
     static CountDownLatch eat1 = new CountDownLatch(5);
     static CountDownLatch eat2 = new CountDownLatch(5);
